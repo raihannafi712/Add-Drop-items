@@ -1,11 +1,12 @@
-import Body from "./components/body/body"
+import Main from "./components/main/Main"
+
 
 function App() {
 
 
   return (
     <>
-      <Body/>
+      <Main/>
     </>
   )
 }
